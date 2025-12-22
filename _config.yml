@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   name             : "Angela Torres Noblejas"
-  avatar           : "/images/avatar.jpg"
+  avatar           : "avatar.jpg"
   bio              : "PhD Candidate in Economics at University of Alicante"
   location         : "Alicante, Spain"
 
