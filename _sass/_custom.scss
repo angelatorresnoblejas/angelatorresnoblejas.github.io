@@ -1,0 +1,12 @@
+/* Make avatar rectangular and larger */
+.author__avatar img {
+  border-radius: 8px;      /* rectangle (set to 0 for sharp corners) */
+  width: 220px;            /* increase size */
+  height: auto;
+  max-width: none;
+}
+
+/* Optional: center avatar nicely */
+.author__avatar {
+  margin-bottom: 1em;
+}
